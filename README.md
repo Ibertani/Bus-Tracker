@@ -1,9 +1,7 @@
-# pacmen
-Factory for making pacmen
-You are given a starter.html code.
-When button "make one" is pressed you need to complete the code 
-to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
-You also need to make each pacman bounce off any wall it hits. 
-Start by getting at least one pacman positioned and viewable. 
+# Bustracker
+This project is to track one of six bus lines in boston that run between harvard and mit campuses. 
+The data is live through MBTA and accessed using a async function. 
+The marker updates to show the new position of the bus every 10 seconds.
+An improvement in the future would be to show the bus route with a line that is generated as the bus moves and delted when the bus turns around to do the route again. 
 
-<img src="PacMan1.png">
+
